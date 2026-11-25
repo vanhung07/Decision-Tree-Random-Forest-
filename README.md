@@ -1,7 +1,7 @@
-# GIÁO TRÌNH GIẢNG DẠY CHUYÊN SÂU: DECISION TREE & RANDOM FOREST
+#DECISION TREE & RANDOM FOREST
 
 > **Môn học / Chuyên đề:** Học máy ứng dụng (Applied Machine Learning) — Các mô hình dựa trên cây (Tree-based Models)  
-> **Đối tượng:** Sinh viên Công nghệ Thông tin / Khoa học Dữ liệu, Kỹ sư phần mềm chuyển hướng AI/ML, Chuyên viên phân tích dữ liệu  
+> **Đối tượng:** Sinh viên Công nghệ Thông tin / Khoa học Dữ liệu, Kỹ sư phần mềm chuyển hướng AI/ML
 > **Thời lượng đề xuất:** 4 buổi học (12 giờ lý thuyết + thực hành có hướng dẫn) và 1 Đồ án thực hành (Mini-Project)  
 > **Tài liệu thực hành đi kèm:** `Project_Decision_Tree_Random_Forest.ipynb`
 
